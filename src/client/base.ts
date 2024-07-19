@@ -8,4 +8,4 @@ export const fetchApi = ky.create({
   headers: {
     "Content-Type": "application/json",
   },
-});
+})
